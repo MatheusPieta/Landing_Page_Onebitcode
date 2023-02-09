@@ -19,9 +19,9 @@ Landing Page desenvolvida através de um tutorial no youtube para estudar HTML e
 
 <p align="center">
 <h1 align="center">Mobile</h1>
-  <img alt="Projeto Mobile" src=".github/preview_light.JPG" width="100%">
+  <img alt="Projeto Mobile" src=".github/previewMobile.JPG" width="100%">
 <h1 align="center">Desktop</h1>
-  <img alt="projeto Desktop" src=".github/preview_dark.JPG" width="100%">
+  <img alt="projeto Desktop" src=".github/previewDesk.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
